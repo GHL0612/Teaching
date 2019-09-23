@@ -344,4 +344,6 @@ healthchecksdb
 *.rm
 *.rmvb
 *.avi
+*.wmv
+*.asf
 
